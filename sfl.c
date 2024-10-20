@@ -1,4 +1,4 @@
-//Celescu Rares 312CA
+//Celescu Rares
 
 #include <stdio.h>
 #include <stdlib.h>
